@@ -9,7 +9,7 @@
 //Console.Write(str);
 //Console.WriteLine();
 
- // Вывод с использованием $
+// Вывод с использованием $
 //Console.WriteLine($"квадрат числа {number} равен = {str}");
 
 // Вывод с обращением к переменным
@@ -81,6 +81,7 @@ if ( N > 0 ){
     while(num<=N){
     System.Console.WriteLine($"{num}");
    num++;
+   // num = num+1
     }
 }
 
@@ -91,14 +92,29 @@ else{
     }
 }
 
-*/
+
 
 //Задача №7. Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает последнюю цифру этого числа.
 //456 -> 6
 //782 -> 2
 //918 -> 8
 
+using System.Net.WebSockets;
+
 System.Console.WriteLine(" ВВедите число: ");
 int N=Convert.ToInt32(Console.ReadLine());
 int ost=N%10;
 System.Console.WriteLine(ost);
+*/
+Console.Write("Введите трехзначное число: ");
+string number = Console.ReadLine();
+int amount = number.Length;
+
+if (amount != 3)
+{
+Console.WriteLine("Вы ввели не трехзначное число");
+}
+else
+{
+Console.WriteLine(number.Substring(amount-1));
+}

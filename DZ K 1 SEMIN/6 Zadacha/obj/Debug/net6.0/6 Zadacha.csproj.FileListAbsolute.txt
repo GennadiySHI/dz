@@ -1,0 +1,15 @@
+C:\Users\7\Desktop\IT\Лекция C#1\DZ K 1 SEMIN\6 Zadacha\obj\Debug\net6.0\6 Zadacha.csproj.AssemblyReference.cache
+C:\Users\7\Desktop\IT\Лекция C#1\DZ K 1 SEMIN\6 Zadacha\obj\Debug\net6.0\6 Zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7\Desktop\IT\Лекция C#1\DZ K 1 SEMIN\6 Zadacha\obj\Debug\net6.0\6 Zadacha.AssemblyInfoInputs.cache
+C:\Users\7\Desktop\IT\Лекция C#1\DZ K 1 SEMIN\6 Zadacha\obj\Debug\net6.0\6 Zadacha.AssemblyInfo.cs
+C:\Users\7\Desktop\IT\Лекция C#1\DZ K 1 SEMIN\6 Zadacha\obj\Debug\net6.0\6 Zadacha.csproj.CoreCompileInputs.cache
+C:\Users\7\Desktop\IT\Лекция C#1\DZ K 1 SEMIN\6 Zadacha\bin\Debug\net6.0\6 Zadacha.exe
+C:\Users\7\Desktop\IT\Лекция C#1\DZ K 1 SEMIN\6 Zadacha\bin\Debug\net6.0\6 Zadacha.deps.json
+C:\Users\7\Desktop\IT\Лекция C#1\DZ K 1 SEMIN\6 Zadacha\bin\Debug\net6.0\6 Zadacha.runtimeconfig.json
+C:\Users\7\Desktop\IT\Лекция C#1\DZ K 1 SEMIN\6 Zadacha\bin\Debug\net6.0\6 Zadacha.dll
+C:\Users\7\Desktop\IT\Лекция C#1\DZ K 1 SEMIN\6 Zadacha\bin\Debug\net6.0\6 Zadacha.pdb
+C:\Users\7\Desktop\IT\Лекция C#1\DZ K 1 SEMIN\6 Zadacha\obj\Debug\net6.0\6 Zadacha.dll
+C:\Users\7\Desktop\IT\Лекция C#1\DZ K 1 SEMIN\6 Zadacha\obj\Debug\net6.0\refint\6 Zadacha.dll
+C:\Users\7\Desktop\IT\Лекция C#1\DZ K 1 SEMIN\6 Zadacha\obj\Debug\net6.0\6 Zadacha.pdb
+C:\Users\7\Desktop\IT\Лекция C#1\DZ K 1 SEMIN\6 Zadacha\obj\Debug\net6.0\6 Zadacha.genruntimeconfig.cache
+C:\Users\7\Desktop\IT\Лекция C#1\DZ K 1 SEMIN\6 Zadacha\obj\Debug\net6.0\ref\6 Zadacha.dll

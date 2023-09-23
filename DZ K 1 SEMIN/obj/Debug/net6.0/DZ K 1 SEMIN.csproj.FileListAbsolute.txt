@@ -1,0 +1,15 @@
+C:\Users\7\Desktop\IT\Лекция C#1\DZ K 1 SEMIN\bin\Debug\net6.0\DZ K 1 SEMIN.exe
+C:\Users\7\Desktop\IT\Лекция C#1\DZ K 1 SEMIN\bin\Debug\net6.0\DZ K 1 SEMIN.deps.json
+C:\Users\7\Desktop\IT\Лекция C#1\DZ K 1 SEMIN\bin\Debug\net6.0\DZ K 1 SEMIN.runtimeconfig.json
+C:\Users\7\Desktop\IT\Лекция C#1\DZ K 1 SEMIN\bin\Debug\net6.0\DZ K 1 SEMIN.dll
+C:\Users\7\Desktop\IT\Лекция C#1\DZ K 1 SEMIN\bin\Debug\net6.0\DZ K 1 SEMIN.pdb
+C:\Users\7\Desktop\IT\Лекция C#1\DZ K 1 SEMIN\obj\Debug\net6.0\DZ K 1 SEMIN.csproj.AssemblyReference.cache
+C:\Users\7\Desktop\IT\Лекция C#1\DZ K 1 SEMIN\obj\Debug\net6.0\DZ K 1 SEMIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7\Desktop\IT\Лекция C#1\DZ K 1 SEMIN\obj\Debug\net6.0\DZ K 1 SEMIN.AssemblyInfoInputs.cache
+C:\Users\7\Desktop\IT\Лекция C#1\DZ K 1 SEMIN\obj\Debug\net6.0\DZ K 1 SEMIN.AssemblyInfo.cs
+C:\Users\7\Desktop\IT\Лекция C#1\DZ K 1 SEMIN\obj\Debug\net6.0\DZ K 1 SEMIN.csproj.CoreCompileInputs.cache
+C:\Users\7\Desktop\IT\Лекция C#1\DZ K 1 SEMIN\obj\Debug\net6.0\DZ K 1 SEMIN.dll
+C:\Users\7\Desktop\IT\Лекция C#1\DZ K 1 SEMIN\obj\Debug\net6.0\refint\DZ K 1 SEMIN.dll
+C:\Users\7\Desktop\IT\Лекция C#1\DZ K 1 SEMIN\obj\Debug\net6.0\DZ K 1 SEMIN.pdb
+C:\Users\7\Desktop\IT\Лекция C#1\DZ K 1 SEMIN\obj\Debug\net6.0\DZ K 1 SEMIN.genruntimeconfig.cache
+C:\Users\7\Desktop\IT\Лекция C#1\DZ K 1 SEMIN\obj\Debug\net6.0\ref\DZ K 1 SEMIN.dll
